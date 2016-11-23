@@ -1,0 +1,4 @@
+AndroidButton.MainActivity, AndroidButton;md5801fdbdfad5c9a7049d9d6cf9702a471.MainActivity
+AndroidButton.MainActivity, AndroidButton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5801fdbdfad5c9a7049d9d6cf9702a471.MainActivity
+AndroidButton.MainActivity;md5801fdbdfad5c9a7049d9d6cf9702a471.MainActivity
+androidbutton.MainActivity;md5801fdbdfad5c9a7049d9d6cf9702a471.MainActivity

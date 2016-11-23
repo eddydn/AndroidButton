@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:background="#25AAFF"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:padding="10dp"
+        android:text="This is simple Android button" />
+    <Button
+        android:background="#25AAFF"
+        android:drawableLeft="@drawable/Icon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Button With Icon in Left" />
+    <Button
+        android:background="#25AAFF"
+        android:drawableRight="@drawable/Icon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Button With Icon in Right" />
+    <Button
+        android:background="@drawable/button_border"
+        android:layout_height="70dp"
+        android:layout_width="250dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Button with Border Color" />
+    <Button
+        android:background="@drawable/button_border_radius"
+        android:layout_height="70dp"
+        android:layout_width="250dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Button with Border Radius" />
+    <Button
+        android:background="@drawable/button_round"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Round Button" />
+</LinearLayout>
